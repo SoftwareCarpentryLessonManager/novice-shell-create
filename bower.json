@@ -1,0 +1,16 @@
+{
+  "name": "novice-shell-create",
+  "version": "0.1.0",
+  "homepage": "https://github.com/SoftwareCarpentryLessonManager/novice-shell-filedir",
+  "description": "Shell lesson on creating and removing files and directories.",
+  "main": "index.md",
+  "keywords": [
+    "shell",
+    "novice"
+  ],
+  "dependencies": {
+    "novice-shell-intro": "0.1.*", // for the resources
+    "novice-shell-filedir": "0.1.*"
+  },
+  "license": "CC BY 3.0 Unported"
+}
