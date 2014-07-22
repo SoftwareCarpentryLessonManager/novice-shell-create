@@ -1,6 +1,6 @@
 ---
 layout: lesson
-root: ../..
+root: ../software-carpentry-template
 title: Creating Things
 ---
 <div class="objectives" markdown="1">
