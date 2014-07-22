@@ -8,8 +8,8 @@
     "novice"
   ],
   "dependencies": {
-    "novice-shell-intro": "0.1.*", // for the resources
-    "novice-shell-filedir": "0.1.*"
+    "novice-shell-intro": "SoftwareCarpentryLessonManager/novice-shell-intro#0.1.*",
+    "novice-shell-filedir": "SoftwareCarpentryLessonManager/novice-shell-filedir#0.1.*"
   },
   "license": "CC BY 3.0 Unported"
 }
